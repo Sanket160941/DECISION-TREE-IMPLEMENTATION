@@ -22,3 +22,18 @@ One of the key parts of this task was visualization. We used plotting functions 
 This task has practical applications in many real-world domains. Decision Trees are widely used in fields such as healthcare for disease prediction, finance for loan approval systems, and marketing for customer segmentation. Their interpretability makes them especially useful in scenarios where understanding the decision process is as important as the prediction itself. Overall, this task provided hands-on experience in building, evaluating, and visualizing a machine learning model. It also helped in understanding how to structure a complete data science workflow in a notebook format, making it suitable for both academic submission and real-world applications.
 
 *OUTPUTS*:
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/6fc322a1-9ffc-4110-a990-97d1d5ee60c6" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/98e7c8c3-ba86-46f7-99c7-d9c2248c6f68" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/e38f3339-3d81-4ca4-aae0-8d6611625068" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/6ff6158d-70cd-4528-869b-bcee9066c824" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/cc0390b4-64dc-4d85-80ed-9630f644a2dc" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/ece8edf6-6b29-4803-9db6-acb334242db7" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/ecae70dd-4908-4731-8c9c-7071191177ef" />
+
+<img width="1893" height="1121" alt="Image" src="https://github.com/user-attachments/assets/3b4442a7-9c5a-46ee-af28-3a841ef9ea90" />
